@@ -766,7 +766,6 @@ widget = {
 					texture = "gfx/interface/hud/tab_extra.dds"
 
 					onclick = "[ToggleGameViewData( 'court_window', GetPlayer.GetID )]"
-					# shortcut = "court_window"
 					down = "[IsGameViewOpen( 'court_window' )]"
 
 					tooltip = "EXTRA_HUD_BUTTON"
